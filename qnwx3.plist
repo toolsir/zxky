@@ -20,7 +20,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://zhuanqianbar.cn/tools/images/BBB.png</string>
+					<string>http://zhuanqianbar.cn/images/BBB.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -28,7 +28,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://zhuanqianbar.cn/tools/images/BBB.png</string>
+					<string>http://zhuanqianbar.cn/images/BBB.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
