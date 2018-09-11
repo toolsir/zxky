@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
@@ -41,7 +42,8 @@
 				<key>subtitle</key>
 				<string>微信vip</string>
 				<key>title</key>
-				<string>小灰灰，更多福利及更新请关注公众号：工具Sir</string>
+				<string>小灰灰，更多福利及更新请关注公众号：工具Sir
+</string>
 			</dict>
 		</dict>
 	</array>
