@@ -12,7 +12,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://app.cydiabwcx.com/yoke/201809150373595742924.ipa</string>
+					<string>http://app.cydiabwcx.com/yoke/2018092816170636481767.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -20,7 +20,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-                        <string>http:/zhuanqianbar.cn/images/BBB.png</string>
+                        <string>http://zhuanqianbar.cn/images/BBB.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
